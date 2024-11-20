@@ -1,3 +1,6 @@
 add another marketing message section
 
 fifth bug fix
+
+add footer note
+2025 is coming
